@@ -1,0 +1,14 @@
+C:\Users\eduardo.fernandes\source\repos\Teste Guide\ApiObrasBibliograficas\bin\Debug\netcoreapp2.1\ApiObrasBibliograficas.deps.json
+C:\Users\eduardo.fernandes\source\repos\Teste Guide\ApiObrasBibliograficas\bin\Debug\netcoreapp2.1\ApiObrasBibliograficas.runtimeconfig.json
+C:\Users\eduardo.fernandes\source\repos\Teste Guide\ApiObrasBibliograficas\bin\Debug\netcoreapp2.1\ApiObrasBibliograficas.runtimeconfig.dev.json
+C:\Users\eduardo.fernandes\source\repos\Teste Guide\ApiObrasBibliograficas\bin\Debug\netcoreapp2.1\ApiObrasBibliograficas.dll
+C:\Users\eduardo.fernandes\source\repos\Teste Guide\ApiObrasBibliograficas\bin\Debug\netcoreapp2.1\ApiObrasBibliograficas.pdb
+C:\Users\eduardo.fernandes\source\repos\Teste Guide\ApiObrasBibliograficas\obj\Debug\netcoreapp2.1\ApiObrasBibliograficas.csprojAssemblyReference.cache
+C:\Users\eduardo.fernandes\source\repos\Teste Guide\ApiObrasBibliograficas\obj\Debug\netcoreapp2.1\ApiObrasBibliograficas.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.fernandes\source\repos\Teste Guide\ApiObrasBibliograficas\obj\Debug\netcoreapp2.1\ApiObrasBibliograficas.RazorAssemblyInfo.cache
+C:\Users\eduardo.fernandes\source\repos\Teste Guide\ApiObrasBibliograficas\obj\Debug\netcoreapp2.1\ApiObrasBibliograficas.RazorAssemblyInfo.cs
+C:\Users\eduardo.fernandes\source\repos\Teste Guide\ApiObrasBibliograficas\obj\Debug\netcoreapp2.1\ApiObrasBibliograficas.AssemblyInfoInputs.cache
+C:\Users\eduardo.fernandes\source\repos\Teste Guide\ApiObrasBibliograficas\obj\Debug\netcoreapp2.1\ApiObrasBibliograficas.AssemblyInfo.cs
+C:\Users\eduardo.fernandes\source\repos\Teste Guide\ApiObrasBibliograficas\obj\Debug\netcoreapp2.1\ApiObrasBibliograficas.RazorTargetAssemblyInfo.cache
+C:\Users\eduardo.fernandes\source\repos\Teste Guide\ApiObrasBibliograficas\obj\Debug\netcoreapp2.1\ApiObrasBibliograficas.dll
+C:\Users\eduardo.fernandes\source\repos\Teste Guide\ApiObrasBibliograficas\obj\Debug\netcoreapp2.1\ApiObrasBibliograficas.pdb
